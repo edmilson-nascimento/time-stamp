@@ -5,7 +5,7 @@
 
 ~~Quando Deus der coragem~~ Futuramente eu vou melhorar o codigo e mudar com uma boa documentação.
 Desenvolvimento para medir tempo de processamento por rotina ABAP.
-Baseado no link [ADDITIONAL FIELD IN MB52 OUTPUT REPORT](https://ilakkiasabap.wordpress.com/2019/05/11/additional-field-in-mb52-output-report/)
+Um dos links usados foi [SQL Expressions, Constant in SELECT List](https://help.sap.com/doc/abapdocu_751_index_htm/7.51/en-us/abensql_expr_literal_abexa.htm)
 
 
 ## Necessidade ##
