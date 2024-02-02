@@ -4,8 +4,6 @@
 
 REPORT yteste MESSAGE-ID >0 .
 
-
-
 DATA:
   startstamp TYPE timestampl,
   endstamp   TYPE timestampl.
