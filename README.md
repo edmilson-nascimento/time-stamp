@@ -2,7 +2,7 @@
 # Medindo tempo de processamento #
 
 ![Static Badge](https://img.shields.io/badge/development-abap-blue)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/queue) 
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/time-stamp) 
 ![Static Badge](https://img.shields.io/badge/miriam-mb-orange)
 
 ~~Quando Deus der coragem~~ Futuramente eu vou melhorar o codigo e mudar com uma boa documentação.
