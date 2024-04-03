@@ -11,11 +11,10 @@ Um dos links usados foi [SQL Expressions, Constant in SELECT List](https://help.
 
 
 ## Necessidade ##
-
 .
 
 ## Tecnologia adotada ##
-
-
+.
 
 ## Solução ##
+.
